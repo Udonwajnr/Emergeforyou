@@ -141,6 +141,20 @@ const About = () => {
                             </div>
                         </div>
                     </div>
+                    <div class="max-w-sm mx-auto bg-white rounded-xl shadow-md overflow-hidden md:max-w-2xl">
+                        <div class="md:flex">
+                            <div class="md:shrink-0">
+                            <img class="h-48 w-full object-cover md:h-full md:w-24" src="/img/ti.jpg" alt="Modern building architecture"/>
+                            </div>
+                            <div class="p-5 md:p-4">
+                            <div class="uppercase tracking-wide text-sm text-red-500 font-semibold"> TINGWUTOBONG OKONSON </div>
+                            <p  class="block mt-1 text-lg md:text-sm leading-tight font-medium text-black hover:underline">Computer Science</p>
+                            <small className='text-xs'>19/SC/CO/758</small>
+                            <p class="mt-1 text-slate-500 md:text-sm">Tingwutobong Okonson is a computer science student undergraduate of university of uyo. He is a software developer and a technical writer. </p>
+                            </div>
+                        </div>
+                    </div>
+
                 </div>
                 
             </div>

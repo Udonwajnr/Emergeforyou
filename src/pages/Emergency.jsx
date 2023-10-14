@@ -80,24 +80,24 @@ const Emergency = () => {
                 <ul >
                     <li className='my-3'>
                         <div className='flex  justify-between'>
-                            <span >08070628237</span>
+                            <span >08156696804</span>
                             <span>Health Care</span>
-                            <a href="tel:08070628237" className='bg-red-500 hover:bg-red-700 text-white font-bold py-1 px-4 rounded md:text-xs md:px-2'>Call Asap</a>
+                            <a href="tel:08156696804" className='bg-red-500 hover:bg-red-700 text-white font-bold py-1 px-4 rounded md:text-xs md:px-2'>Call Asap</a>
 
                         </div>   
                     </li>
                     <li className='my-3'>
                         <div className='flex justify-between'>
-                            <span >08070628237</span>
+                            <span >08156696804</span>
                             <span>Security</span>
-                            <a href="tel:08070628237" className='bg-red-500 hover:bg-red-700 text-white font-bold py-1 px-4 rounded md:text-xs md:px-2'>Call Asap</a>
+                            <a href="tel:08156696804" className='bg-red-500 hover:bg-red-700 text-white font-bold py-1 px-4 rounded md:text-xs md:px-2'>Call Asap</a>
                         </div>   
                     </li>
                     <li className='my-3 block'>
                         <div className='flex justify-between'>
-                            <span >08070628237</span>
+                            <span >08156696804</span>
                             <span>Fire Service</span>
-                            <a href="tel:08070628237" className='bg-red-500 hover:bg-red-700 text-white font-bold py-1 px-4 rounded md:text-xs md:px-2'>Call Asap</a>
+                            <a href="tel:08156696804" className='bg-red-500 hover:bg-red-700 text-white font-bold py-1 px-4 rounded md:text-xs md:px-2'>Call Asap</a>
                         </div>   
                     </li>
                 </ul>
